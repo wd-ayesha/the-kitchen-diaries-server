@@ -1,10 +1,14 @@
-const express = require('express')
-const app = express()
-const port = 5000
+const express = require('express');
+const cors = require('cors')
+
+const app = express();
+app.use(cors());
+const port = process.env.PORT || 5000;
 const chefs = require('./data/chefs.json')
 
+
 app.get('/', (req, res) => {
-  res.send('The Kitchen Diaries server!')
+  res.send('hello server is running!')
 })
 
 app.get('/chefs', (req, res) => {
@@ -12,5 +16,5 @@ app.get('/chefs', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`The Kitchen Diaries server is running on port ${port}`)
+  console.log(`server is running on port ${port}`)
 })

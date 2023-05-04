@@ -4,8 +4,8 @@
       "id": 1,
       "name": "Mohammad Rahman",
       "experience_years": 12,
-      "rating": 4.5,
-      "img_url": "https://example.com/chef1.jpg",
+      "likes": "1.5k",
+      "img_url": "https://ibb.co/HKt23Lj",
       "num_recipes": 32,
       "bio": "Mohammad Rahman is a seasoned Bangladeshi chef with over 12 years of experience in creating traditional and fusion dishes. He is known for his use of unique and flavorful spices to create dishes that are both delicious and healthy.",
       "recipes": [
@@ -30,7 +30,8 @@
             "Water",
             "Salt"
           ],
-          "cooking_method": "In a pot, layer the rice and mutton. Mix yogurt, ginger, garlic, green chili, turmeric, cumin powder, coriander powder, cardamom, cinnamon, cloves, bay leaves, and salt in a bowl and spread half of it over the rice and mutton. Repeat the layering process and pour water and ghee on top. Cover and cook over low heat until the rice and mutton are cooked. Serve hot with raita."
+          "cooking_method": "In a pot, layer the rice and mutton. Mix yogurt, ginger, garlic, green chili, turmeric, cumin powder, coriander powder, cardamom, cinnamon, cloves, bay leaves, and salt in a bowl and spread half of it over the rice and mutton. Repeat the layering process and pour water and ghee on top. Cover and cook over low heat until the rice and mutton are cooked. Serve hot with raita.",
+          "rating": 4.5
         },
         {
           "name": "Chingri Malai Curry",
@@ -49,7 +50,8 @@
             "Ghee",
             "Salt"
           ],
-          "cooking_method": "In a pan, sauté onion, ginger, garlic, and green chili until they are soft. Add turmeric, cumin powder, coriander powder, red chili powder, and salt. Add the shrimp and cook for a few minutes. Add coconut milk and bay leaves and simmer until the shrimp is cooked and the gravy thickens. Serve hot with rice or naan bread."
+          "cooking_method": "In a pan, sauté onion, ginger, garlic, and green chili until they are soft. Add turmeric, cumin powder, coriander powder, red chili powder, and salt. Add the shrimp and cook for a few minutes. Add coconut milk and bay leaves and simmer until the shrimp is cooked and the gravy thickens. Serve hot with rice or naan bread.",
+          "rating": 4.0
         },
         {
           "name": "Mutton Rezala",
@@ -70,7 +72,8 @@
             "Ghee",
             "Salt"
           ],
-          "cooking_method": "In a pan, sauté onion, ginger, and garlic until they are soft. Add turmeric, cumin powder, coriander powder, cardamom, cinnamon, cloves, bay leaves, and salt. Add the mutton and mix well. Add yogurt and simmer until the mutton is cooked and the gravy thickens. Serve hot with naan bread or rice."
+          "cooking_method": "In a pan, sauté onion, ginger, and garlic until they are soft. Add turmeric, cumin powder, coriander powder, cardamom, cinnamon, cloves, bay leaves, and salt. Add the mutton and mix well. Add yogurt and simmer until the mutton is cooked and the gravy thickens. Serve hot with naan bread or rice.",
+          "rating": 3.5
         }
       ]
     },
@@ -79,8 +82,8 @@
       "id": 2,
       "name": "Fatima Akter",
       "experience_years": 8,
-      "rating": 4.2,
-      "img_url": "https://example.com/chef2.jpg",
+      "likes": "3.1k",
+      "img_url": "https://ibb.co/kQkvfYm",
       "num_recipes": 20,
       "bio": "Fatima Akter is a talented Bangladeshi chef who specializes in creating authentic and flavorful dishes that are both healthy and delicious. She has been cooking for over 8 years and is known for her use of fresh and locally sourced ingredients.",
       "recipes": [
@@ -105,7 +108,8 @@
             "Salt",
             "Mustard oil"
           ],
-          "cooking_method": "Marinate the fish with turmeric and salt. In a pan, heat mustard oil and fry the fish until it is brown. Remove from the pan. Add green chili and mustard paste to the pan and sauté until the mixture is cooked. Add water and salt and bring to a boil. Add the fish and simmer until it is cooked. Serve hot with rice."
+          "cooking_method": "Marinate the fish with turmeric and salt. In a pan, heat mustard oil and fry the fish until it is brown. Remove from the pan. Add green chili and mustard paste to the pan and sauté until the mixture is cooked. Add water and salt and bring to a boil. Add the fish and simmer until it is cooked. Serve hot with rice.",
+          "rating": 4.2
         },
         {
           "name": "Bhuna Khichuri",
@@ -125,7 +129,8 @@
             "Ghee",
             "Salt"
           ],
-          "cooking_method": "In a pot, heat ghee and sauté onion, garlic, ginger, and green chili until they are soft. Add lentil, rice, turmeric, cumin powder, coriander powder, cinnamon, cloves, bay leaves, and salt. Mix well and add water. Cover and cook until the rice and lentils are cooked. Serve hot with achar (pickle) or papad (poppadum)."
+          "cooking_method": "In a pot, heat ghee and sauté onion, garlic, ginger, and green chili until they are soft. Add lentil, rice, turmeric, cumin powder, coriander powder, cinnamon, cloves, bay leaves, and salt. Mix well and add water. Cover and cook until the rice and lentils are cooked. Serve hot with achar (pickle) or papad (poppadum).",
+          "rating": 4.4
         }
       ]
     },
@@ -133,8 +138,8 @@
       "id": 3,
       "name": "Moumita Roy",
       "experience_years": 10,
-      "rating": 4.8,
-      "img_url": "https://example.com/chef3.jpg",
+      "likes": "2.2k",
+      "img_url": "https://ibb.co/0Qs1s1M",
       "num_recipes": 50,
       "bio": "Moumita Roy is a passionate and talented Bangladeshi chef with over 10 years of experience in creating innovative and delicious dishes. She is known for her use of unique spices and herbs to create dishes that are both flavorful and healthy.",
       "recipes": [
@@ -156,7 +161,8 @@
             "Cloves",
             "Bay leaves"
           ],
-          "cooking_method": "In a pot, cook mutton with lentil and wheat until they are soft. In another pan, heat oil and sauté onion, ginger, garlic, and green chili. Add cumin powder, coriander powder, cardamom, cinnamon, cloves, and bay leaves. Sauté until the mixture is cooked. Add the cooked mutton, lentil, and wheat to the pan. Add water and simmer until the mixture is thick. Serve hot with naan or paratha."
+          "cooking_method": "In a pot, cook mutton with lentil and wheat until they are soft. In another pan, heat oil and sauté onion, ginger, garlic, and green chili. Add cumin powder, coriander powder, cardamom, cinnamon, cloves, and bay leaves. Sauté until the mixture is cooked. Add the cooked mutton, lentil, and wheat to the pan. Add water and simmer until the mixture is thick. Serve hot with naan or paratha.",
+          "rating": 4.8
         },
         {
           "name": "Kachchi Biryani",
@@ -178,7 +184,8 @@
             "Saffron",
             "Ghee"
           ],
-          "cooking_method": "Marinate mutton with yogurt, turmeric, cumin powder, coriander powder, cardamom, cinnamon, cloves, and bay leaves. In a pot, heat ghee and sauté onion, garlic, ginger, and green chili until they are soft. Add the marinated mutton and sauté until the meat is brown. In a separate pot, cook rice until it is half done. Add the mutton and its marinade on top of the rice. Add saffron and cover the pot. Cook until the rice is done. Serve hot with raita (yogurt salad)."
+          "cooking_method": "Marinate mutton with yogurt, turmeric, cumin powder, coriander powder, cardamom, cinnamon, cloves, and bay leaves. In a pot, heat ghee and sauté onion, garlic, ginger, and green chili until they are soft. Add the marinated mutton and sauté until the meat is brown. In a separate pot, cook rice until it is half done. Add the mutton and its marinade on top of the rice. Add saffron and cover the pot. Cook until the rice is done. Serve hot with raita (yogurt salad).",
+          "rating": 3.2
         },
         {
           "name": "Patishapta",
@@ -191,16 +198,17 @@
             "Cardamom",
             "Oil"
           ],
-          "cooking_method": "Mix rice flour, all-purpose flour, and sugar with milk to make a thin batter. In a pan, heat oil and pour a ladleful of the batter into the pan. Spread the batter in a circular motion to form a thin crepe. Add a mixture of grated coconut, sugar, and cardamom on top of the crepe. Fold the crepe into a roll. Serve hot or cold."
+          "cooking_method": "Mix rice flour, all-purpose flour, and sugar with milk to make a thin batter. In a pan, heat oil and pour a ladleful of the batter into the pan. Spread the batter in a circular motion to form a thin crepe. Add a mixture of grated coconut, sugar, and cardamom on top of the crepe. Fold the crepe into a roll. Serve hot or cold.",
+          "rating": 3.2
         }
       ]
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Chef Farzana",
       "experience_years": "12",
-      "rating": "4.8",
-      "img_url": "https://example.com/chef-farzana.jpg",
+      "likes": "3.2k",
+      "img_url": "https://ibb.co/kQkvfYm",
       "num_of_recipes": "25",
       "short_bio": "Chef Farzana is a Bangladeshi chef who is known for her expertise in seafood dishes. She has been cooking for over 12 years and has won several awards for her unique and delicious recipes.",
       "recipes": [
@@ -232,7 +240,8 @@
             "Oil",
             "Salt"
           ],
-          "cooking_method": "In a pan, heat oil and sauté onion, garlic, ginger, and green chili until they are soft. Add cumin powder, coriander powder, garam masala, and turmeric. Sauté until the mixture is cooked. Add prawns to the pan and sauté until they are cooked. Add coconut milk and simmer until the sauce thickens. Serve hot with rice or naan."
+          "cooking_method": "In a pan, heat oil and sauté onion, garlic, ginger, and green chili until they are soft. Add cumin powder, coriander powder, garam masala, and turmeric. Sauté until the mixture is cooked. Add prawns to the pan and sauté until they are cooked. Add coconut milk and simmer until the sauce thickens. Serve hot with rice or naan.",
+          "rating": "4.8"
         },
         {
           "name": "Dhokar Dalna",
@@ -249,16 +258,17 @@
             "Green chili",
             "Garam masala"
           ],
-          "cooking_method": "Soak chana dal in water for 2-3 hours. Drain the water and grind the dal to a smooth paste. Add ginger paste, cumin powder, coriander powder, turmeric powder, and salt to the dal paste. Mix well. In a pan, heat oil and fry the dal mixture until it becomes solid. Cut the fried dal into small cubes. In the same pan, heat oil and sauté onion, tomato, and green chili until they are soft. Add water to the pan and bring it to a boil. Add the fried dal cubes to the pan and let it cook for a few minutes. Add garam masala and mix well. Serve hot with rice or roti."
+          "cooking_method": "Soak chana dal in water for 2-3 hours. Drain the water and grind the dal to a smooth paste. Add ginger paste, cumin powder, coriander powder, turmeric powder, and salt to the dal paste. Mix well. In a pan, heat oil and fry the dal mixture until it becomes solid. Cut the fried dal into small cubes. In the same pan, heat oil and sauté onion, tomato, and green chili until they are soft. Add water to the pan and bring it to a boil. Add the fried dal cubes to the pan and let it cook for a few minutes. Add garam masala and mix well. Serve hot with rice or roti.",
+          "rating": 4.5
         }
       ]
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Chef Kabir",
       "experience_years": "8",
-      "rating": "4.5",
-      "img_url": "https://example.com/chef-kabir.jpg",
+      "likes": "3.2k",
+      "img_url": "https://ibb.co/87R9gj0",
       "num_of_recipes": "20",
       "short_bio": "Chef Kabir is a Bangladeshi chef who is known for his expertise in meat dishes. He has been cooking for over 8 years and has won several awards for his unique and delicious recipes.",
       "recipes": [
@@ -277,7 +287,8 @@
             "Oil",
             "Salt"
           ],
-          "cooking_method": "In a pan, heat oil and sauté onion, garlic, ginger, and green chili until they are soft. Add beef to the pan and sauté until the beef is cooked. Add yogurt, cardamom, cinnamon, bay leaves, and salt to the pan. Simmer until the sauce thickens. Serve hot with rice or naan."
+          "cooking_method": "In a pan, heat oil and sauté onion, garlic, ginger, and green chili until they are soft. Add beef to the pan and sauté until the beef is cooked. Add yogurt, cardamom, cinnamon, bay leaves, and salt to the pan. Simmer until the sauce thickens. Serve hot with rice or naan.",
+          "rating": 2.2
         },
         {
           "name": "Mutton Kacchi Biryani",
@@ -299,7 +310,8 @@
             "Rose water",
             "Salt"
           ],
-          "cooking_method": "In a bowl, marinate mutton with yogurt, cumin powder, coriander powder, garam masala, and turmeric. In a pan, heat oil and sauté onion, garlic, ginger, and green chili until they are soft. Add marinated mutton to the pan and sauté until the mutton is half-cooked. In a separate pot, add rice and water. Cook until the rice is half-cooked. Layer the half-cooked mutton on top of the half-cooked rice. Add saffron, milk, rose water, and salt to the pot. Cover the pot and cook on low heat until the rice and mutton are fully cooked. Serve hot."
+          "cooking_method": "In a bowl, marinate mutton with yogurt, cumin powder, coriander powder, garam masala, and turmeric. In a pan, heat oil and sauté onion, garlic, ginger, and green chili until they are soft. Add marinated mutton to the pan and sauté until the mutton is half-cooked. In a separate pot, add rice and water. Cook until the rice is half-cooked. Layer the half-cooked mutton on top of the half-cooked rice. Add saffron, milk, rose water, and salt to the pot. Cover the pot and cook on low heat until the rice and mutton are fully cooked. Serve hot.",
+          "rating": "4.5"
         },
         {
           "name": "Chicken Roast",
@@ -318,17 +330,18 @@
             "Turmeric",
             "Salt"
           ],
-          "cooking_method": "In a bowl, marinate chicken with yogurt, cumin powder, coriander powder, garam masala, turmeric, and salt. In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add marinated chicken to the pan and sauté until the chicken is cooked. Add lemon juice and sauté for a few minutes. Transfer the chicken to a roasting pan and roast in the oven until it is crispy and golden brown. Serve hot as a main course."
+          "cooking_method": "In a bowl, marinate chicken with yogurt, cumin powder, coriander powder, garam masala, turmeric, and salt. In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add marinated chicken to the pan and sauté until the chicken is cooked. Add lemon juice and sauté for a few minutes. Transfer the chicken to a roasting pan and roast in the oven until it is crispy and golden brown. Serve hot as a main course.",
+          "rating": 2.2
         }
       ]
     },
 
     {
-      "id": "6",
+      "id": 6,
       "name": "Chef Rahim",
       "experience_years": "8",
-      "rating": "4.1",
-      "img_url": "https://example.com/chef-rahim.jpg",
+      "likes": "2.2k",
+      "img_url": "https://ibb.co/bRjL753",
       "num_of_recipes": "12",
       "short_bio": "Chef Rahim is a Bangladeshi chef who specializes in seafood dishes. He has been cooking for over 8 years and has a passion for using fresh ingredients to create delicious and healthy meals.",
       "recipes": [
@@ -342,7 +355,8 @@
             "Salt",
             "Mustard oil"
           ],
-          "cooking_method": "In a bowl, mix mustard seeds, turmeric powder, green chili, and salt with water to make a paste. Rub the paste onto the hilsa fish. In a pan, heat mustard oil and fry the fish until it is cooked. Serve hot with rice or roti."
+          "cooking_method": "In a bowl, mix mustard seeds, turmeric powder, green chili, and salt with water to make a paste. Rub the paste onto the hilsa fish. In a pan, heat mustard oil and fry the fish until it is cooked. Serve hot with rice or roti.",
+          "rating": "4.1"
         },
         {
           "name": "Chingri Malai Curry",
@@ -360,7 +374,8 @@
             "Salt",
             "Mustard oil"
           ],
-          "cooking_method": "In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add shrimp to the pan and sauté until they are half-cooked. Add coconut milk to the pan and bring it to a boil. Add turmeric powder, coriander powder, cumin powder, red chili powder, and salt to the pan. Let it cook on low heat until the shrimp are fully cooked. Serve hot with rice."
+          "cooking_method": "In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add shrimp to the pan and sauté until they are half-cooked. Add coconut milk to the pan and bring it to a boil. Add turmeric powder, coriander powder, cumin powder, red chili powder, and salt to the pan. Let it cook on low heat until the shrimp are fully cooked. Serve hot with rice.",
+          "rating": 3.2
         },
         {
           "name": "Rui Macher Jhol",
@@ -379,7 +394,8 @@
             "Mustard oil",
             "Water"
           ],
-          "cooking_method": "In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add tomato to the pan and sauté until it is soft. Add turmeric powder, coriander powder, cumin powder, red chili powder, and salt to the pan. Add water to the pan and bring it to a boil. Add rohu fish to the pan and let it cook on low heat until it is fully cooked. Serve hot with rice or roti."
+          "cooking_method": "In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add tomato to the pan and sauté until it is soft. Add turmeric powder, coriander powder, cumin powder, red chili powder, and salt to the pan. Add water to the pan and bring it to a boil. Add rohu fish to the pan and let it cook on low heat until it is fully cooked. Serve hot with rice or roti.",
+          "rating": 3.5
         }
       ]
     },
@@ -388,8 +404,8 @@
       "id": 7,
       "name": "Mridula Karim",
       "experience_years": 10,
-      "rating": 4.5,
-      "img_url": "https://example.com/mridula-karim.jpg",
+      "likes": "1.2k",
+      "img_url": "https://ibb.co/xF0P9Nq",
       "num_recipes": 100,
       "bio": "Mridula Karim is a popular Bangladeshi chef and cookbook author. She has been promoting Bangladeshi cuisine for over 10 years and is known for her innovative and creative recipes.",
       "recipes": [
@@ -404,7 +420,8 @@
             "chili",
             "spices"
           ],
-          "cooking_method": "1. Heat oil in a pan. Add onion, garlic, and ginger and fry until golden brown. 2. Add chicken and fry for 5-7 minutes. 3. Add potato, chili, and spices and cook until the chicken is tender. Serve hot."
+          "cooking_method": "1. Heat oil in a pan. Add onion, garlic, and ginger and fry until golden brown. 2. Add chicken and fry for 5-7 minutes. 3. Add potato, chili, and spices and cook until the chicken is tender. Serve hot.",
+          "rating": 4.5
         },
         {
           "name": "Bhuna Khichuri",
@@ -416,7 +433,8 @@
             "ginger",
             "spices"
           ],
-          "cooking_method": "1. Heat oil in a pan. Add onion, garlic, and ginger and fry until golden brown. 2. Add rice and lentils and fry for 2-3 minutes. 3. Add spices and water and cook until the rice and lentils are tender. Serve hot."
+          "cooking_method": "1. Heat oil in a pan. Add onion, garlic, and ginger and fry until golden brown. 2. Add rice and lentils and fry for 2-3 minutes. 3. Add spices and water and cook until the rice and lentils are tender. Serve hot.",
+          "rating": 3.5
         },
         {
           "name": "Beef Bhuna",
@@ -429,7 +447,8 @@
             "tomato",
             "spices"
           ],
-          "cooking_method": "1. Heat oil in a pan. Add onion, garlic, and ginger and fry until golden brown. 2. Add beef, chili, and spices and fry for 10-15 minutes. 3. Add tomato and cook until the beef is tender. Serve hot."
+          "cooking_method": "1. Heat oil in a pan. Add onion, garlic, and ginger and fry until golden brown. 2. Add beef, chili, and spices and fry for 10-15 minutes. 3. Add tomato and cook until the beef is tender. Serve hot.",
+          "rating": 2.8
         }
       ]
     }

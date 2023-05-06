@@ -11,6 +11,7 @@
       "recipes": [
         {
           "name": "Kacchi Biryani",
+          "img": "https://ibb.co/B4WLL8s",
           "ingredients": [
             "Basmati rice",
             "Mutton",
@@ -35,6 +36,7 @@
         },
         {
           "name": "Chingri Malai Curry",
+          "img": "https://ibb.co/bbLrTRN",
           "ingredients": [
             "Shrimp",
             "Coconut milk",
@@ -55,6 +57,7 @@
         },
         {
           "name": "Mutton Rezala",
+          "img": "https://ibb.co/vmwZ6Fr",
           "ingredients": [
             "Mutton",
             "Yogurt",
@@ -89,6 +92,7 @@
       "recipes": [
         {
           "name": "Pitha",
+           "img": "https://ibb.co/NKDGQjX",
           "ingredients": [
             "Rice flour",
             "Water",
@@ -100,6 +104,7 @@
         },
         {
           "name": "Shorshe Ilish",
+          "img": "https://ibb.co/8XdQYxW",
           "ingredients": [
             "Hilsa fish",
             "Mustard paste",
@@ -113,6 +118,7 @@
         },
         {
           "name": "Bhuna Khichuri",
+          "img": "https://ibb.co/rxj5rKj",
           "ingredients": [
             "Rice",
             "Lentil",
@@ -145,6 +151,7 @@
       "recipes": [
         {
           "name": "Haleem",
+          "img": "https://ibb.co/RYQBgsG",
           "ingredients": [
             "Mutton",
             "Lentil",
@@ -166,6 +173,7 @@
         },
         {
           "name": "Kachchi Biryani",
+          "img": "https://ibb.co/s3kzV6S",
           "ingredients": [
             "Mutton",
             "Basmati rice",
@@ -189,6 +197,7 @@
         },
         {
           "name": "Patishapta",
+          "img": "https://ibb.co/p2HjD3F",
           "ingredients": [
             "Rice flour",
             "All-purpose flour",
@@ -214,6 +223,7 @@
       "recipes": [
         {
           "name": "Shorshe Ilish",
+          "img": "https://ibb.co/8XdQYxW",
           "ingredients": [
             "Hilsa fish",
             "Mustard paste",
@@ -226,6 +236,7 @@
         },
         {
           "name": "Prawn Malai Curry",
+          "img": "https://ibb.co/bbLrTRN",
           "ingredients": [
             "Prawns",
             "Coconut milk",
@@ -245,6 +256,7 @@
         },
         {
           "name": "Dhokar Dalna",
+          "img": "https://ibb.co/Vw74WNj",
           "ingredients": [
             "Chana dal",
             "Ginger paste",
@@ -274,6 +286,7 @@
       "recipes": [
         {
           "name": "Beef Rezala",
+          "img": "https://ibb.co/JRKHbM7",
           "ingredients": [
             "Beef",
             "Yogurt",
@@ -292,6 +305,7 @@
         },
         {
           "name": "Mutton Kacchi Biryani",
+          "img": "https://ibb.co/s3kzV6S",
           "ingredients": [
             "Mutton",
             "Basmati rice",
@@ -315,6 +329,7 @@
         },
         {
           "name": "Chicken Roast",
+          "img": "https://ibb.co/1qHpbQC",
           "ingredients": [
             "Chicken",
             "Yogurt",
@@ -347,6 +362,7 @@
       "recipes": [
         {
           "name": "Shorshe Ilish",
+          "img": "https://ibb.co/8XdQYxW",
           "ingredients": [
             "Hilsa fish",
             "Mustard seeds",
@@ -360,6 +376,7 @@
         },
         {
           "name": "Chingri Malai Curry",
+          "img": "https://ibb.co/bbLrTRN",
           "ingredients": [
             "Shrimp",
             "Coconut milk",
@@ -379,6 +396,7 @@
         },
         {
           "name": "Rui Macher Jhol",
+          "img": "https://ibb.co/X8KhvJY",
           "ingredients": [
             "Rohu fish",
             "Onion",
@@ -411,6 +429,7 @@
       "recipes": [
         {
           "name": "Murgir Jhol",
+          "img": "https://ibb.co/wLH7xBP",
           "ingredients": [
             "chicken",
             "potato",
@@ -425,6 +444,7 @@
         },
         {
           "name": "Bhuna Khichuri",
+          "img": "https://ibb.co/rxj5rKj",
           "ingredients": [
             "rice",
             "lentil",
@@ -438,6 +458,7 @@
         },
         {
           "name": "Beef Bhuna",
+          "img": "https://ibb.co/JRKHbM7",
           "ingredients": [
             "beef",
             "onion",

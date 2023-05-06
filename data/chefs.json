@@ -5,13 +5,13 @@
       "name": "Mohammad Rahman",
       "experience_years": 12,
       "likes": "1.5k",
-      "img_url": "https://ibb.co/HKt23Lj",
+      "img_url": "https://i.ibb.co/mR9Bgr3/1.jpg",
       "num_recipes": 32,
       "bio": "Mohammad Rahman is a seasoned Bangladeshi chef with over 12 years of experience in creating traditional and fusion dishes. He is known for his use of unique and flavorful spices to create dishes that are both delicious and healthy.",
       "recipes": [
         {
           "name": "Kacchi Biryani",
-          "img": "https://ibb.co/B4WLL8s",
+          "img": "https://i.ibb.co/VHnVVXB/download-1.jpg",
           "ingredients": [
             "Basmati rice",
             "Mutton",
@@ -36,7 +36,7 @@
         },
         {
           "name": "Chingri Malai Curry",
-          "img": "https://ibb.co/bbLrTRN",
+          "img": "https://i.ibb.co/3RW02YS/download.jpg",
           "ingredients": [
             "Shrimp",
             "Coconut milk",
@@ -57,7 +57,7 @@
         },
         {
           "name": "Mutton Rezala",
-          "img": "https://ibb.co/vmwZ6Fr",
+          "img": "https://i.ibb.co/xGCJtkc/images.jpg",
           "ingredients": [
             "Mutton",
             "Yogurt",
@@ -86,13 +86,13 @@
       "name": "Fatima Akter",
       "experience_years": 8,
       "likes": "3.1k",
-      "img_url": "https://ibb.co/kQkvfYm",
+      "img_url": "https://i.ibb.co/H7jFKkC/5.jpg",
       "num_recipes": 20,
       "bio": "Fatima Akter is a talented Bangladeshi chef who specializes in creating authentic and flavorful dishes that are both healthy and delicious. She has been cooking for over 8 years and is known for her use of fresh and locally sourced ingredients.",
       "recipes": [
         {
           "name": "Pitha",
-           "img": "https://ibb.co/NKDGQjX",
+           "img": "https://i.ibb.co/yqvxGyD/images-1.jpg",
           "ingredients": [
             "Rice flour",
             "Water",
@@ -104,7 +104,7 @@
         },
         {
           "name": "Shorshe Ilish",
-          "img": "https://ibb.co/8XdQYxW",
+          "img": "https://i.ibb.co/mSXPNyL/download-2.jpg",
           "ingredients": [
             "Hilsa fish",
             "Mustard paste",
@@ -118,7 +118,7 @@
         },
         {
           "name": "Bhuna Khichuri",
-          "img": "https://ibb.co/rxj5rKj",
+          "img": "https://i.ibb.co/k47qCV7/download-3.jpg",
           "ingredients": [
             "Rice",
             "Lentil",
@@ -145,13 +145,13 @@
       "name": "Moumita Roy",
       "experience_years": 10,
       "likes": "2.2k",
-      "img_url": "https://ibb.co/0Qs1s1M",
+      "img_url": "https://i.ibb.co/t3LnLns/2.jpg",
       "num_recipes": 50,
       "bio": "Moumita Roy is a passionate and talented Bangladeshi chef with over 10 years of experience in creating innovative and delicious dishes. She is known for her use of unique spices and herbs to create dishes that are both flavorful and healthy.",
       "recipes": [
         {
           "name": "Haleem",
-          "img": "https://ibb.co/RYQBgsG",
+          "img": "https://i.ibb.co/fqrnXyV/Haleem-4.jpg",
           "ingredients": [
             "Mutton",
             "Lentil",
@@ -173,7 +173,7 @@
         },
         {
           "name": "Kachchi Biryani",
-          "img": "https://ibb.co/s3kzV6S",
+          "img": "https://i.ibb.co/12hjmdV/dhaka-kachchi-tbs.jpg",
           "ingredients": [
             "Mutton",
             "Basmati rice",
@@ -197,7 +197,7 @@
         },
         {
           "name": "Patishapta",
-          "img": "https://ibb.co/p2HjD3F",
+          "img": "https://i.ibb.co/CBjKdnG/download-4.jpg",
           "ingredients": [
             "Rice flour",
             "All-purpose flour",
@@ -217,13 +217,13 @@
       "name": "Chef Farzana",
       "experience_years": "12",
       "likes": "3.2k",
-      "img_url": "https://ibb.co/kQkvfYm",
+      "img_url": "https://i.ibb.co/QrztRsD/4.png",
       "num_of_recipes": "25",
       "short_bio": "Chef Farzana is a Bangladeshi chef who is known for her expertise in seafood dishes. She has been cooking for over 12 years and has won several awards for her unique and delicious recipes.",
       "recipes": [
         {
           "name": "Shorshe Ilish",
-          "img": "https://ibb.co/8XdQYxW",
+          "img": "https://i.ibb.co/mSXPNyL/download-2.jpg",
           "ingredients": [
             "Hilsa fish",
             "Mustard paste",
@@ -236,7 +236,7 @@
         },
         {
           "name": "Prawn Malai Curry",
-          "img": "https://ibb.co/bbLrTRN",
+          "img": "https://i.ibb.co/3RW02YS/download.jpg",
           "ingredients": [
             "Prawns",
             "Coconut milk",
@@ -256,7 +256,7 @@
         },
         {
           "name": "Dhokar Dalna",
-          "img": "https://ibb.co/Vw74WNj",
+          "img": "https://i.ibb.co/3RDZysr/Dhokar-dalna-Featured.jpg",
           "ingredients": [
             "Chana dal",
             "Ginger paste",
@@ -280,13 +280,13 @@
       "name": "Chef Kabir",
       "experience_years": "8",
       "likes": "3.2k",
-      "img_url": "https://ibb.co/87R9gj0",
+      "img_url": "https://i.ibb.co/pr6ZnjP/6.jpg",
       "num_of_recipes": "20",
       "short_bio": "Chef Kabir is a Bangladeshi chef who is known for his expertise in meat dishes. He has been cooking for over 8 years and has won several awards for his unique and delicious recipes.",
       "recipes": [
         {
           "name": "Beef Rezala",
-          "img": "https://ibb.co/JRKHbM7",
+          "img": "https://i.ibb.co/FbKzfjw/maxresdefault.jpg",
           "ingredients": [
             "Beef",
             "Yogurt",
@@ -305,7 +305,7 @@
         },
         {
           "name": "Mutton Kacchi Biryani",
-          "img": "https://ibb.co/s3kzV6S",
+          "img": "https://i.ibb.co/12hjmdV/dhaka-kachchi-tbs.jpg",
           "ingredients": [
             "Mutton",
             "Basmati rice",
@@ -329,7 +329,7 @@
         },
         {
           "name": "Chicken Roast",
-          "img": "https://ibb.co/1qHpbQC",
+          "img": "https://i.ibb.co/k8YrMBL/download-5.jpg",
           "ingredients": [
             "Chicken",
             "Yogurt",
@@ -356,13 +356,13 @@
       "name": "Chef Rahim",
       "experience_years": "8",
       "likes": "2.2k",
-      "img_url": "https://ibb.co/bRjL753",
+      "img_url": "https://i.ibb.co/LZq1dC8/3.jpg",
       "num_of_recipes": "12",
       "short_bio": "Chef Rahim is a Bangladeshi chef who specializes in seafood dishes. He has been cooking for over 8 years and has a passion for using fresh ingredients to create delicious and healthy meals.",
       "recipes": [
         {
           "name": "Shorshe Ilish",
-          "img": "https://ibb.co/8XdQYxW",
+          "img": "https://i.ibb.co/mSXPNyL/download-2.jpg",
           "ingredients": [
             "Hilsa fish",
             "Mustard seeds",
@@ -376,7 +376,7 @@
         },
         {
           "name": "Chingri Malai Curry",
-          "img": "https://ibb.co/bbLrTRN",
+          "img": "https://i.ibb.co/3RW02YS/download.jpg",
           "ingredients": [
             "Shrimp",
             "Coconut milk",
@@ -396,7 +396,7 @@
         },
         {
           "name": "Rui Macher Jhol",
-          "img": "https://ibb.co/X8KhvJY",
+          "img": "https://i.ibb.co/hf4Pt8Y/download-6.jpg",
           "ingredients": [
             "Rohu fish",
             "Onion",
@@ -420,16 +420,16 @@
 
     {
       "id": 7,
-      "name": "Mridula Karim",
+      "name": "Mridule Karim",
       "experience_years": 10,
       "likes": "1.2k",
-      "img_url": "https://ibb.co/xF0P9Nq",
+      "img_url": "https://i.ibb.co/dmq1CR4/7.jpg",
       "num_recipes": 100,
-      "bio": "Mridula Karim is a popular Bangladeshi chef and cookbook author. She has been promoting Bangladeshi cuisine for over 10 years and is known for her innovative and creative recipes.",
+      "bio": "Mridule Karim is a popular Bangladeshi chef and cookbook author. He has been promoting Bangladeshi cuisine for over 10 years and is known for his innovative and creative recipes.",
       "recipes": [
         {
           "name": "Murgir Jhol",
-          "img": "https://ibb.co/wLH7xBP",
+          "img": "https://i.ibb.co/6Zh8frT/download-7.jpg",
           "ingredients": [
             "chicken",
             "potato",
@@ -444,7 +444,7 @@
         },
         {
           "name": "Bhuna Khichuri",
-          "img": "https://ibb.co/rxj5rKj",
+          "img": "https://i.ibb.co/k47qCV7/download-3.jpg",
           "ingredients": [
             "rice",
             "lentil",
@@ -458,7 +458,7 @@
         },
         {
           "name": "Beef Bhuna",
-          "img": "https://ibb.co/JRKHbM7",
+          "img": "https://i.ibb.co/xGCJtkc/images.jpg",
           "ingredients": [
             "beef",
             "onion",

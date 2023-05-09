@@ -472,6 +472,72 @@
           "rating": 2.8
         }
       ]
+    },
+    {
+      "id": 8,
+      "name": "Chef Reza",
+      "experience_years": "7",
+      "likes": "2.5k",
+      "img_url": "https://i.ibb.co/BGNPRTn/8.jpg",
+      "num_of_recipes": "15",
+      "short_bio": "Chef Rahim is a Bangladeshi chef who specializes in seafood dishes. He has been cooking for over 8 years and has a passion for using fresh ingredients to create delicious and healthy meals.",
+      "recipes": [
+        {
+          "name": "Shorshe Ilish",
+          "img": "https://i.ibb.co/mSXPNyL/download-2.jpg",
+          "ingredients": [
+            "Hilsa fish",
+            "Mustard seeds",
+            "Turmeric powder",
+            "Green chili",
+            "Salt",
+            "Mustard oil"
+          ],
+          "cooking_method": "In a bowl, mix mustard seeds, turmeric powder, green chili, and salt with water to make a paste. Rub the paste onto the hilsa fish. In a pan, heat mustard oil and fry the fish until it is cooked. Serve hot with rice or roti.",
+          "rating": "4.1"
+        },
+        {
+          "name": "Chingri Malai Curry",
+          "img": "https://i.ibb.co/3RW02YS/download.jpg",
+          "ingredients": [
+            "Shrimp",
+            "Coconut milk",
+            "Onion",
+            "Garlic",
+            "Ginger",
+            "Green chili",
+            "Turmeric powder",
+            "Coriander powder",
+            "Cumin powder",
+            "Red chili powder",
+            "Salt",
+            "Mustard oil"
+          ],
+          "cooking_method": "In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add shrimp to the pan and sauté until they are half-cooked. Add coconut milk to the pan and bring it to a boil. Add turmeric powder, coriander powder, cumin powder, red chili powder, and salt to the pan. Let it cook on low heat until the shrimp are fully cooked. Serve hot with rice.",
+          "rating": 3.2
+        },
+        {
+          "name": "Rui Macher Jhol",
+          "img": "https://i.ibb.co/hf4Pt8Y/download-6.jpg",
+          "ingredients": [
+            "Rohu fish",
+            "Onion",
+            "Garlic",
+            "Ginger",
+            "Green chili",
+            "Tomato",
+            "Turmeric powder",
+            "Coriander powder",
+            "Cumin powder",
+            "Red chili powder",
+            "Salt",
+            "Mustard oil",
+            "Water"
+          ],
+          "cooking_method": "In a pan, heat mustard oil and sauté onion, garlic, ginger, and green chili until they are soft. Add tomato to the pan and sauté until it is soft. Add turmeric powder, coriander powder, cumin powder, red chili powder, and salt to the pan. Add water to the pan and bring it to a boil. Add rohu fish to the pan and let it cook on low heat until it is fully cooked. Serve hot with rice or roti.",
+          "rating": 3.5
+        }
+      ]
     }
   ]
 }
